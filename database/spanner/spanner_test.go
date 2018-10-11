@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	dt "github.com/golang-migrate/migrate/v4/database/testing"
+	dt "github.com/ges-sh/migrate/database/testing"
 )
 
 func Test(t *testing.T) {

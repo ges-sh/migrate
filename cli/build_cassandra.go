@@ -3,5 +3,5 @@
 package main
 
 import (
-	_ "github.com/golang-migrate/migrate/v4/database/cassandra"
+	_ "github.com/ges-sh/migrate/database/cassandra"
 )

@@ -11,7 +11,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/golang-migrate/migrate/v4/source"
+	"github.com/ges-sh/migrate/source"
 	"github.com/google/go-github/github"
 )
 
